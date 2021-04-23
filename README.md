@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santu558
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning react angular spring boot
+- 🌱 I’m currently learning react, angular, spring boot and java
 - 💞️ I’m looking to collaborate on any chanllenging projects on UI, spring boot, java
 - 📫 How to reach me santhoshsreeramoju@gmail.com
 
